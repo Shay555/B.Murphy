@@ -12,3 +12,10 @@
 .portfolio {
 	height: 350px !important;
 }
+
+.black {
+	width: 60% !important;
+	height: 500px !important;
+	margin: 0 auto;
+	display: block;
+}
