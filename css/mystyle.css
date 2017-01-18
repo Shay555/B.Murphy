@@ -19,3 +19,14 @@
 	margin: 0 auto;
 	display: block;
 }
+
+.sub {
+	text-align: center;
+	color: red;
+	font-size: 30px;
+}
+
+.golf {
+	background-color: red;
+	color: white;
+}
