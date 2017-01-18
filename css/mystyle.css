@@ -27,6 +27,17 @@
 }
 
 .golf {
-	background-color: red;
+	background-color: black;
 	color: white;
+	font-size: 25px;
+	letter-spacing: 2px;
 }
+
+.navbar-collapse {
+	float: left;
+}
+
+/*.nav {
+	float: left;
+
+}*/
