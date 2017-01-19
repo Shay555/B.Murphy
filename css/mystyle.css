@@ -41,3 +41,37 @@
 	float: left;
 
 }*/
+
+.home {
+	background-color: black;
+}
+
+.title {
+	text-align: center;
+	color: red;
+	font-size: 50px;
+}
+
+.right img {
+	/*position: relative;*/
+	width: 100%;
+	height: 30%;
+}
+
+.right p {
+	position: absolute;
+	top: 500px;
+	left: 100;
+	color: red;
+	font-size: 30px;
+	
+}
+
+/*.right {
+	float: right;
+}*/
+
+.corpo {
+	height: 800px !important;
+	width: 100%;
+}
