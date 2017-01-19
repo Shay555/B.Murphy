@@ -27,7 +27,7 @@
 }
 
 .golf {
-	background-color: black;
+	
 	color: white;
 	font-size: 25px;
 	letter-spacing: 2px;
@@ -74,4 +74,10 @@
 .corpo {
 	height: 800px !important;
 	width: 100%;
+}
+
+.ger-golf {
+	text-align: center;
+	font-size: 40px;
+	color: white;
 }
