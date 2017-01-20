@@ -80,7 +80,7 @@
 .ger-golf {
 	text-align: center;
 	font-size: 40px;
-	color: white;
+	color: black;
 }
 
 .soupy {
@@ -91,6 +91,7 @@
 
 #links {
 	background-color: white;
+	border: 5px solid black;
 }
 
 
@@ -139,6 +140,19 @@
 	background-color: white;
 }
 
+.clip-header {
+	color: yellow;
+	text-align: center;
+}
+
+/*.clips {
+	border: 5px solid red;
+}
+*/
+
+.series {
+	border: 5px solid white;
+}
 
 
 
