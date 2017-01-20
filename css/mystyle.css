@@ -2,6 +2,7 @@
 	background-color: red;
 	font-size: 25px;
 	color: black;
+
 }
 
 .cover {
@@ -103,6 +104,7 @@
 	font-size: 25px;
 	text-align: center;
 	vertical-align: middle;
+
 }
 
 /*.toshow {
@@ -118,6 +120,23 @@
 .home-pic {
 	height: 50%;
 	width: 50%;
+}
+
+.about2 {
+	border: 2px solid red;
+	font-size: 30px;
+	background-color: white;
+	line-height: 2;
+	min-width: 25px;
+}
+
+.guntar {
+	margin-bottom: 10%;
+}
+
+.corpo {
+	border: 5px solid red;
+	background-color: white;
 }
 
 
