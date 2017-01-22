@@ -167,6 +167,18 @@
 	font-size: 30px;
 }
 
+/*.glyphicon-chevron-left {
+	color: green;
+	width: 25%;
+}
+
+*/
+
+.carousel-control .glyphicon-chevron-left {
+	font-size: 300px;
+	color: blue;
+}
+
 
 
 
