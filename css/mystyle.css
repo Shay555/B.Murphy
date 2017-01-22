@@ -174,9 +174,14 @@
 
 */
 
-.carousel-control .glyphicon-chevron-left {
-	font-size: 300px;
-	color: blue;
+.test {
+	font-size: 30px;
+	color: white;
+	/*line-height: 200%;*/
+	/*min-width: 400px%;*/
+	/*padding-left: 10%;*/
+	
+
 }
 
 
