@@ -90,13 +90,14 @@
 }
 
 .links {
-	background-color: white;
+	background-color: black;
 	/*border: 5px solid red;*/
 }
 
 
 .links h1 {
 	text-align: center;
+	color: white
 }
 
 
@@ -180,6 +181,8 @@
 	/*line-height: 200%;*/
 	/*min-width: 400px%;*/
 	/*padding-left: 10%;*/
+	line-height: 2%;
+	/*border: 5px solid yellow;*/
 	
 
 }
@@ -193,9 +196,28 @@
 }
 
 
+.top {
+	background-color: white;
+	font-size: 20px;
+}
 
+.top h3 {
+	text-align: center;
+}
 
+.workshop {
+	border: 3px solid red;
+}
 
+.workshop h1 {
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+.corpo-head {
+	font-weight: bold;
+}
 
 
 
