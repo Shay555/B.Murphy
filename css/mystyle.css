@@ -49,8 +49,13 @@
 
 .title {
 	text-align: center;
-	color: red;
+	color: white;
 	font-size: 50px;
+}
+
+.subtitle {
+	text-align: center;
+	color: white;
 }
 
 .right img {
@@ -85,19 +90,23 @@
 
 .soupy {
 	text-align: center;
-	color: red;
+	color: white;
 	font-size: 50px;
 }
 
 .links {
-	background-color: black;
+	background-color: white;
 	/*border: 5px solid red;*/
 }
 
 
 .links h1 {
 	text-align: center;
-	color: white
+	color: black;
+}
+
+.links a {
+	color: black;
 }
 
 
@@ -107,6 +116,10 @@
 	text-align: center;
 	vertical-align: middle;
 
+}
+
+.reviews {
+	color: black;
 }
 
 /*.toshow {
@@ -125,19 +138,31 @@
 }
 
 .about2 {
-	border: 2px solid red;
-	font-size: 30px;
+	border: 2px solid blue;
+	font-size: 20px;
 	background-color: white;
 	line-height: 2;
 	min-width: 25px;
 }
+
+.about2 h3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+/*#standup {
+	border: 2px solid blue;
+	font-size: 30px;
+	background-color: white;
+	line-height: 2;
+	min-width: 25px;*/
 
 .guntar {
 	margin-bottom: 10%;
 }
 
 .corpo {
-	border: 5px solid red;
+	border: 5px solid blue;
 	background-color: white;
 }
 
@@ -152,7 +177,7 @@
 */
 
 .series {
-	border: 5px solid white;
+	border: 5px solid blue;
 }
 
 .kinsale {
@@ -192,7 +217,7 @@
 }
 
 #quotes {
-	border: 3px solid red;
+	border: 3px solid blue;
 }
 
 
@@ -206,12 +231,14 @@
 }
 
 .workshop {
-	border: 3px solid red;
+	border: 3px solid blue;
+	background-color: white;
+	color: black;
 }
 
 .workshop h1 {
 	text-align: center;
-	color: red;
+	color: black;
 	font-weight: bold;
 }
 
@@ -219,6 +246,13 @@
 	font-weight: bold;
 }
 
+#info3 {
+	border: 5px solid blue;
+	font-size: 30px;
+	color: black;
+	line-height: 2;
+	background-color: white;
+}
 
 
 
