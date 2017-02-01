@@ -254,6 +254,21 @@
 	background-color: white;
 }
 
+.workshop-review {
+	background-color: white;
+	color: black;
+}
+
+.workshop-review h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.conf-review {
+	text-align: center;
+	font-weight: bold;
+}
+
 
 
 
