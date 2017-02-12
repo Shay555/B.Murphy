@@ -325,7 +325,7 @@ hr.style-three {
 	width: 100% !important
 }*/
 
-@media (max-width: 600px), {
+@media (max-width: 400px), {
 .contact {
 	height: 20% !important;
 	width: 20% !important;
