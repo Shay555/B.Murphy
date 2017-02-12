@@ -325,7 +325,7 @@ hr.style-three {
 	width: 100% !important
 }*/
 
-@media only screen and (max-width: 768px)
+@media only screen and (max-width: 600px)
 .contact {
 	height: 200px;
 	width: 200px;
