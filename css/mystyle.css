@@ -186,7 +186,10 @@
 }
 
 .contact {
-	margin-top: 100px;
+	margin-top: 15%;
+	max-width: 100%;
+	height: auto;
+
 
 }
 
@@ -325,14 +328,14 @@ hr.style-three {
 	width: 100% !important
 }*/
 
-@media (max-width: 400px), {
+/*@media (max-width: 400px), {
 .contact {
 	height: 20% !important;
 	width: 20% !important;
 }
 	
 }
-
+*/
 
 
 
