@@ -85,7 +85,7 @@
 
 .ger-golf {
 	text-align: center;
-	font-size: 40px;
+	font-size: 25px;
 	color: black;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .about2 {
-	border: 2px solid blue;
+	border: 5px solid blue;
 	font-size: 20px;
 	background-color: white;
 	line-height: 2;
@@ -168,7 +168,7 @@
 }
 
 .clip-header {
-	color: yellow;
+	color: white;
 	text-align: center;
 }
 
@@ -217,7 +217,7 @@
 }
 
 .four {
-	border: 25px solid blue;
+	border: 5px solid blue;
 }
 
 #quotes {
@@ -337,6 +337,34 @@ hr.style-three {
 }
 */
 
+
+.toshow5 {
+	text-align: left;
+}
+.toshow4 {
+	text-align: left;
+}
+
+.about-pic {
+	border: 5px solid blue;
+}
+
+.circle li  {
+	list-style-image: img src="images/BM-New/blue-dot.png" !important; 
+}
+
+
+.blue {
+	color: blue;
+}
+
+.about-points li {
+	font-weight: bold;
+}
+
+.corpo1, .corpo2, .corpo3, .test-1, .test-2 {
+	border: 5px solid blue;
+}
 
 
 
