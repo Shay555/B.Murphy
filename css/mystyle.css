@@ -336,7 +336,7 @@ hr.style-three {
 }
 */
 
-.toshow1 {
+.toshow1, .toshow2, .toshow3 {
 	line-height: 1.25;
 }
 
