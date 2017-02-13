@@ -337,12 +337,18 @@ hr.style-three {
 }
 */
 
+.toshow1 {
+	line-height: 1.25;
+}
+
 
 .toshow5 {
 	text-align: left;
+	line-height: 1.25;
 }
 .toshow4 {
 	text-align: left;
+	line-height: 1.25;
 }
 
 .about-pic {
