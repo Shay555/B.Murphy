@@ -377,8 +377,8 @@ hr.style-three {
 		margin-top: 5%;
 	}
 	.contact-a, .contact-b {
-		font-weight: bold;
-		color: white;
+		font-weight: bold !important;
+		color: white !important;
 	}
 
 }
