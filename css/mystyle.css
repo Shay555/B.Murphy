@@ -374,7 +374,11 @@ hr.style-three {
 @media (min-width : 320px) and (max-width: 478px)  {
 
 	.contact {
-		margin-top: 0;
+		margin-top: 5%;
+	}
+	.contact-a, .contact-b {
+		font-weight: bold;
+		color: white;
 	}
 
 }
