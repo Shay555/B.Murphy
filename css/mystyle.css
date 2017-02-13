@@ -189,9 +189,8 @@
 	margin-top: 15%;
 	max-width: 100%;
 	height: auto;
-
-
 }
+
 
 .CInfo {
 	font-size: 30px;
@@ -370,6 +369,14 @@ hr.style-three {
 
 .corpo1, .corpo2, .corpo3, .test-1, .test-2, .clips2 {
 	border: 5px solid blue;
+}
+
+@media (min-width : 320px) and (max-width: 478px)  {
+
+	.contact {
+		margin-top: 5%;
+	}
+
 }
 
 
