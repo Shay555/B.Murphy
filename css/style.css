@@ -160,7 +160,8 @@ ul.circle li{
 
 ul.circle li:before{
 	content: "\f111";
-	color: #eb2c33;
+	/*color: #eb2c33;*/
+	color: blue;
 	font-family: FontAwesome;
 	font-size: 8px;
 	line-height: 8px;
