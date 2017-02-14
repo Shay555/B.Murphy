@@ -376,6 +376,19 @@ hr.style-three {
 	line-height: 2;
 }
 
+.corpo-pic {
+	border: 5px solid blue;
+}
+
+.corpo-heading {
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+
+
+
 @media (min-width : 320px) and (max-width: 478px)  {
 
 	.contact {
