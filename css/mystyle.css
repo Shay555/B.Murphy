@@ -371,6 +371,11 @@ hr.style-three {
 	border: 5px solid blue;
 }
 
+
+.test-changed li {
+	line-height: 2;
+}
+
 @media (min-width : 320px) and (max-width: 478px)  {
 
 	.contact {
