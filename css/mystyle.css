@@ -367,7 +367,7 @@ hr.style-three {
 	font-weight: bold;
 }
 
-.corpo1, .corpo2, .corpo3, .test-1, .test-2, .clips2 {
+.corpo1, .corpo2, .corpo3, .test-1, .test-2, .clips2, .corpo-heading {
 	border: 5px solid blue;
 }
 
@@ -384,6 +384,7 @@ hr.style-three {
 	background-color: white;
 	color: black;
 	text-align: center;
+	
 }
 
 
